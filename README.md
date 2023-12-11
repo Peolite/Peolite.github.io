@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+up# Frontend Mentor - QR code component solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -13,7 +13,7 @@ Ihis is a webpage with a QR code embeded in it which can be scaned to get access
 ### Links
 
 - Solution URL: [https://github.com/Peolite/-Peolite.git](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://Peolite.github.io)
 
 ## My process
 
