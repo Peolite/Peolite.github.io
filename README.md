@@ -13,7 +13,7 @@ Ihis is a webpage with a QR code embeded in it which can be scaned to get access
 ### Links
 
 - Solution URL: [https://github.com/Peolite/-Peolite.git](https://your-solution-url.com)
-- Live Site URL: https://Peolite.github.io)
+- Live Site URL:(
 https://Peolite.github.io)
 
 ## My process
